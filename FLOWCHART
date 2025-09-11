@@ -1,1 +1,25 @@
+1. Start
 
+
+2. Is the pet hungry? (Decision)
+
+If No → Go to End
+
+If Yes → Continue
+
+
+
+3. Select food type
+
+
+4. Prepare food
+
+
+5. Feed the pet
+
+
+6. Is the pet satisfied? (Decision)
+
+If Yes → Go to Clean up → End
+
+If No → Repeat from Select food type
