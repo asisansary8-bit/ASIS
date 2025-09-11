@@ -1,0 +1,15 @@
+START
+    
+   Is The Pet Hungry
+     Select Food Type
+        prepare Food
+            Feed The Pet
+    If The Pet Satisfied
+      Then Select Food Type
+         Done
+    ELSE
+      REPEAT
+    ENDIF
+     
+     CLEAN UP
+END
